@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="516" viewBox="0 0 1000 516">
+  <defs>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F7CE7B"/>
+      <stop offset="0.5" stop-color="#E0A83E"/>
+      <stop offset="1" stop-color="#A8741F"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <g id="note">
+      <ellipse cx="0" cy="0" rx="7.5" ry="5.2" transform="rotate(-20 0 0)" fill="#E6A844"/>
+      <rect x="5.6" y="-36" width="2.8" height="36" fill="#E6A844"/>
+      <path d="M8.4,-36 C17,-32 19,-23 14.5,-14 C16,-25 12.5,-28.5 8.4,-29.5 Z" fill="#E6A844"/>
+    </g>
+    <clipPath id="frame"><rect x="0" y="0" width="1000" height="516"/></clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="1000" height="516" fill="#07090F"/>
+
+  <!-- JUDUL -->
+  <rect x="24" y="14" width="5" height="38" rx="2.5" fill="url(#goldGrad)"/>
+  <text x="44" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="29" letter-spacing="5" fill="url(#goldGrad)">PROJECT PILIHAN</text>
+  <rect x="24" y="62" width="952" height="1.4" fill="#C8912A" opacity="0.35"/>
+  <g transform="translate(0,64)">
+
+  <!-- ===== KARTU 1: EKSPLORASI GITAR ===== -->
+  <g>
+    <rect x="24" y="24" width="464" height="196" rx="16" fill="#0D1017" stroke="#C8912A" stroke-opacity="0.5" stroke-width="1.5"/>
+    <rect x="46" y="44" width="118" height="22" rx="11" fill="#1D1508"/>
+    <text x="105" y="59" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" letter-spacing="2" fill="#E6A844">WEBSITE — LIVE</text>
+    <g transform="translate(438,84) scale(0.72)" opacity="0.8">
+      <use href="#note"/>
+    </g>
+    <text x="46" y="106" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="url(#goldGrad)">Eksplorasi Gitar</text>
+    <text x="46" y="136" font-family="Verdana, sans-serif" font-size="15" fill="#C9D1D9">Website eksplorasi jenis gitar — akustik,</text>
+    <text x="46" y="160" font-family="Verdana, sans-serif" font-size="15" fill="#C9D1D9">elektrik, dan bass. Sudah live dan bisa</text>
+    <text x="46" y="184" font-family="Verdana, sans-serif" font-size="15" fill="#C9D1D9">dibuka siapa saja.</text>
+    <text x="46" y="208" font-family="'Courier New', monospace" font-size="12.5" fill="#9BA3AF">HTML • CSS • JavaScript • Netlify</text>
+  </g>
+
+  <!-- ===== KARTU 2: LANGUAGE BUDDY ===== -->
+  <g>
+    <rect x="512" y="24" width="464" height="196" rx="16" fill="#0D1017" stroke="#C8912A" stroke-opacity="0.5" stroke-width="1.5"/>
+    <rect x="534" y="44" width="104" height="22" rx="11" fill="#1D1508"/>
+    <text x="586" y="59" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" letter-spacing="2" fill="#E6A844">APLIKASI AI</text>
+    <g transform="translate(908,52)" opacity="0.8">
+      <rect x="0" y="0" width="34" height="24" rx="8" fill="none" stroke="#E6A844" stroke-width="2"/>
+      <polygon points="8,24 8,33 18,24" fill="#E6A844"/>
+      <circle cx="10" cy="12" r="2.2" fill="#E6A844"/>
+      <circle cx="19" cy="12" r="2.2" fill="#E6A844"/>
+      <circle cx="28" cy="12" r="2.2" fill="#E6A844" opacity="0.55"/>
+    </g>
+    <text x="534" y="106" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="url(#goldGrad)">Language Buddy</text>
+    <text x="534" y="136" font-family="Verdana, sans-serif" font-size="15" fill="#C9D1D9">Aplikasi latihan bahasa pakai AI dengan</text>
+    <text x="534" y="160" font-family="Verdana, sans-serif" font-size="15" fill="#C9D1D9">chat interaktif, panel skor langsung, dan</text>
+    <text x="534" y="184" font-family="Verdana, sans-serif" font-size="15" fill="#C9D1D9">kuis kosakata.</text>
+    <text x="534" y="208" font-family="'Courier New', monospace" font-size="12.5" fill="#9BA3AF">HTML • CSS • JavaScript</text>
+  </g>
+
+  <!-- ===== KARTU 3: WEBSITE KOPDES ===== -->
+  <g>
+    <rect x="24" y="236" width="464" height="196" rx="16" fill="#0D1017" stroke="#C8912A" stroke-opacity="0.5" stroke-width="1.5"/>
+    <rect x="46" y="256" width="82" height="22" rx="11" fill="#1D1508"/>
+    <text x="87" y="271" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" letter-spacing="2" fill="#E6A844">WEBSITE</text>
+    <g transform="translate(916,262)" opacity="0.8" stroke="#E6A844" stroke-width="2" fill="none">
+      <path d="M-16,4 L0,-10 L16,4"/>
+      <rect x="-11" y="4" width="22" height="16"/>
+      <rect x="-3.5" y="10" width="7" height="10" fill="#E6A844" stroke="none"/>
+    </g>
+    <text x="46" y="318" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="url(#goldGrad)">Website KOPDES</text>
+    <text x="46" y="348" font-family="Verdana, sans-serif" font-size="15" fill="#C9D1D9">Website koperasi desa: katalog produk bisa</text>
+    <text x="46" y="372" font-family="Verdana, sans-serif" font-size="15" fill="#C9D1D9">difilter, form anggota, testimoni, dan FAQ.</text>
+    <text x="46" y="420" font-family="'Courier New', monospace" font-size="12.5" fill="#9BA3AF">HTML • CSS • JavaScript</text>
+  </g>
+
+  <!-- ===== KARTU 4: KLASIFIKASI DEPRESI ===== -->
+  <g>
+    <rect x="512" y="236" width="464" height="196" rx="16" fill="#0D1017" stroke="#C8912A" stroke-opacity="0.5" stroke-width="1.5"/>
+    <rect x="534" y="256" width="158" height="22" rx="11" fill="#1D1508"/>
+    <text x="613" y="271" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" letter-spacing="2" fill="#E6A844">MACHINE LEARNING</text>
+    <g transform="translate(908,266)" fill="#E6A844" opacity="0.8">
+      <rect x="-18" y="2" width="8" height="14"/>
+      <rect x="-6" y="-4" width="8" height="20"/>
+      <rect x="6" y="-10" width="8" height="26"/>
+    </g>
+    <text x="534" y="318" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="url(#goldGrad)">Klasifikasi Depresi Mahasiswa</text>
+    <text x="534" y="348" font-family="Verdana, sans-serif" font-size="15" fill="#C9D1D9">Perbandingan SVM, Random Forest, ANN, dan</text>
+    <text x="534" y="372" font-family="Verdana, sans-serif" font-size="15" fill="#C9D1D9">KNN pada 27.901 data mahasiswa. Akurasi</text>
+    <text x="534" y="396" font-family="Verdana, sans-serif" font-size="15" fill="#C9D1D9">terbaik: <tspan font-weight="bold" fill="#F5EFDD">SVM 83,80%</tspan>.</text>
+    <text x="534" y="420" font-family="'Courier New', monospace" font-size="12.5" fill="#9BA3AF">Python • scikit-learn • Pandas</text>
+  </g>
+
+  </g>
+
+  <g clip-path="url(#frame)">
+    <rect x="-300" y="0" width="300" height="516" fill="url(#shine)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;1300 0" dur="6s" begin="1.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
