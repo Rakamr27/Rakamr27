@@ -20,15 +20,15 @@
   <img src="./project-cards.svg" alt="Project Pilihan Raka" width="100%" />
 </p>
 <p align="center">
-  🔗 <b>Eksplorasi Gitar:</b> <a href="https://github.com/Rakamr27/eksplorasi-gitar">Repo GitHub</a> · <a href="https://eksplorasi-gitar.netlify.app">Live di Netlify</a>
+  <a href="https://github.com/Rakamr27/eksplorasi-gitar"><img src="https://img.shields.io/badge/Eksplorasi_Gitar-Repo_GitHub-E6A844?style=for-the-badge&logo=github&logoColor=0B0E14&labelColor=14100A" alt="Repo Eksplorasi Gitar" /></a>
+  <a href="https://eksplorasi-gitar.netlify.app"><img src="https://img.shields.io/badge/Eksplorasi_Gitar-Live_di_Netlify-E6A844?style=for-the-badge&logo=netlify&logoColor=0B0E14&labelColor=14100A" alt="Live Eksplorasi Gitar" /></a>
 </p>
 
 <p align="center">
   <img src="./header-stats.svg" alt="Statistik GitHub" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakamr27&show_icons=true&bg_color=0B0E14&title_color=E6A844&text_color=C9D1D9&icon_color=E6A844&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakamr27&layout=compact&bg_color=0B0E14&title_color=E6A844&text_color=C9D1D9&hide_border=true" alt="Top Languages" height="165" />
+  <img src="./stats-card.svg" alt="Statistik GitHub Raka" width="100%" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rakamr27&background=0B0E14&ring=E6A844&fire=E6A844&currStreakLabel=E6A844&currStreakNum=F7CE7B&sideNums=F7CE7B&sideLabels=9BA3AF&dates=6E7683&hide_border=true" alt="GitHub Streak" />
